@@ -1,0 +1,2 @@
+# Akatsuki
+my_version
