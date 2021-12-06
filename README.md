@@ -5,8 +5,10 @@
 ##### Hidan
 ###### Kakazu
 *shinagami*
+
 **light ryuk**
-*** death note ***
+
+***death note***
 
 
 
@@ -18,3 +20,23 @@ s.no|name|design
 1|tony|business man
 2|professor|heist
 3|hashirama|god
+1. First list item
+   - First nested list item
+   - Second nested list item
+ 
+ :grinning:
+ 
+ :yum:
+ 
+ :money_mouth_face:
+
+1.  A paragraph
+with two lines.
+
+          indented code
+
+      > A block quote.
+      
+🧑  
+
+~~ this was a mistake ~~
